@@ -1,0 +1,2 @@
+# UPGMA
+Ce programme permet la construction d'un arbre phylogénétique basé sur  * la méthode UPGMA, à partir d'une matrice de distance. Il affiche la matrice  * de distance initiale, puis la matrice modifiée ainsi que les racines  * associées à l'arbre en construction à partir de cette matrice au fur et  * à mesure. A la fin, l'arbre phylogénétique sous forme d'une liste parenthésée  * reflétant les relations de parenté est affiché.
