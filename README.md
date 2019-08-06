@@ -62,3 +62,8 @@ La matrice de distances obtenue par l'algorithme UPGMA est affichée à chaque i
 
 L'algorithme UPGMA retourne un arbre binaire raciné dont les feuilles sont les noeuds de départ. Il est tout à fait possible de lui appliquer les parcours connus (dans l'ordre infixe, préfixe et postfixe). Néanmoins, ces parcours affichent également les noeuds supplémentaires obtenus à chaque itération UPGMA. Il serait plus informatif de n'afficher que les noeuds de départ regroupés de façon à refléter les distances phylogénétiques. <br>
 C'est pourquoi l'affichage choisi reflète les relations phylogénétiques à l'aide de parenthésages. Par exemple : (1 4) ( ( 2 ( 0 3) ) ).
+
+## 3 Exemples
+
+Un exemple d'éxécution de l'algorithme UPGMA est disponible dans le fichier *figure 1*.<br>
+Un exemple d'affichage de la matrice de distances et de la liste des racines est disponible dans la *figure 2*.
