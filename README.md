@@ -4,7 +4,7 @@ Ce programme permet la construction d'un arbre phylogénétique basé sur la mé
 
 ## Informations
 
-Ce programme est un projet réalisé dans le cadre de ma première année de master de bioinformatique. Le but était de nous faire manipuler les pointeurs, et d'éviter les fuites mémoire.
+Ce programme est un projet réalisé dans le cadre de ma première année de master de bioinformatique. Le but était de nous faire manipuler les pointeurs, et d'éviter les fuites mémoire. Pour obtenir l'intégralité du polycopié du projet : https://www.lri.fr/~zaharia/AC/Projet_AC_2017_2018.pdf
 
 Afin de vérifier qu'iln'y a aucune fuite mémoire, <code>valgrind</code> a été utilisé. Pour cela, il suffit de lancer la commande suivante :
 
