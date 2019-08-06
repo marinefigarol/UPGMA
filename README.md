@@ -65,5 +65,5 @@ C'est pourquoi l'affichage choisi reflète les relations phylogénétiques à l'
 
 ## 3 Exemples
 
-Un exemple d'éxécution de l'algorithme UPGMA est disponible dans le fichier *figure 1*.<br>
+Un exemple d'exécution de l'algorithme UPGMA est disponible dans le fichier *figure 1*.<br>
 Un exemple d'affichage de la matrice de distances et de la liste des racines est disponible dans la *figure 2*.
